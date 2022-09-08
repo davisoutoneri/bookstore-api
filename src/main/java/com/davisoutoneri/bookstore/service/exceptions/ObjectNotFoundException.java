@@ -1,4 +1,4 @@
-package com.davisoutoneri.bookstore.exceptions;
+package com.davisoutoneri.bookstore.service.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 

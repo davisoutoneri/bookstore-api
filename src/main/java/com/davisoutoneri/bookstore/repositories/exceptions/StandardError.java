@@ -1,4 +1,4 @@
-package com.davisoutoneri.bookstore.exceptions;
+package com.davisoutoneri.bookstore.repositories.exceptions;
 
 public class StandardError {
 	
